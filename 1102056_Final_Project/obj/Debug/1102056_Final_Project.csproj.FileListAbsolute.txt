@@ -1,0 +1,11 @@
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\bin\Debug\1102056_Final_Project.exe.config
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\bin\Debug\1102056_Final_Project.exe
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\bin\Debug\1102056_Final_Project.pdb
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\obj\Debug\1102056_Final_Project.csproj.AssemblyReference.cache
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\obj\Debug\1102056_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\obj\Debug\_1102056_Final_Project.Form1.resources
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\obj\Debug\_1102056_Final_Project.Properties.Resources.resources
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\obj\Debug\1102056_Final_Project.csproj.GenerateResource.cache
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\obj\Debug\1102056_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\obj\Debug\1102056_Final_Project.exe
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056_Final_Project\1102056_Final_Project\obj\Debug\1102056_Final_Project.pdb
